@@ -1,4 +1,4 @@
-# 📒 Swift Note-Taking App
+# 📒Note-Taking App
 
 A simple and intuitive **note-taking app** built with **SwiftUI** that allows users to create, edit, complete, and delete notes. Notes are **saved locally** using JSON storage, ensuring persistence even after the app closes.
 
