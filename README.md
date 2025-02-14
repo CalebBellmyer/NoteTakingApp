@@ -2,8 +2,6 @@
 
 A simple and intuitive **note-taking app** built with **SwiftUI** that allows users to create, edit, complete, and delete notes. Notes are **saved locally** using JSON storage, ensuring persistence even after the app closes.
 
-![SwiftUI Notes App](./Assets/app_banner.png) *(Optional: Add a banner or main screenshot of the app UI)*
-
 ---
 
 ## ✨ Features
@@ -18,7 +16,6 @@ A simple and intuitive **note-taking app** built with **SwiftUI** that allows us
 ---
 
 ## 📸 Screenshots
-*(Optional: Add some screenshots of the app here)*
 
 | Home Screen  |  Note Detail  |  Completed Notes |
 |-------------|-------------|-------------|
